@@ -1,0 +1,24 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"greeting": {
+				"__TYPE__": "FieldContent",
+				"value": "sense",
+				"type": "Text"
+			},
+			"name": {
+				"__TYPE__": "FieldContent",
+				"value": "wish",
+				"type": "Text"
+			},
+			"tag_line": {
+				"__TYPE__": "FieldContent",
+				"value": "blow",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
